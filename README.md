@@ -3,10 +3,10 @@ Name: Wasan Bader Al Sarmi
 Student ID: 2316232
  
 ## Quiz answers
-Q1: _  Q2: _  Q3: _  Q4: _
-Q5: _  Q6: _  Q7: _  Q8: _
-Q9: _  Q10: _  Q11: _  Q12: _
-Q13: _  Q14: _  Q15: _  Q16: _
+Q1: C  Q2: B  Q3: D  Q4: B
+Q5: A  Q6: C  Q7: D  Q8: A
+Q9: B  Q10: B  Q11: A  Q12: D
+Q13: C  Q14: A  Q15: B  Q16: D
  
 ## My results
 Genuine average score: ...
