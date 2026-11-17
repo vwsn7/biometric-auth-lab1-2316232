@@ -1,6 +1,6 @@
 # Lab 1 - Fingerprint System
-Name: ...
-Student ID: ...
+Name: Wasan Bader Al Sarmi
+Student ID: 2316232
  
 ## Quiz answers
 Q1: _  Q2: _  Q3: _  Q4: _
